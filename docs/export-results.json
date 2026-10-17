@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "files": 57,
+  "bytes": 1597647,
+  "ceiling": 8388608,
+  "distBytes": 879905,
+  "ignoreBytes": 182,
+  "relativeAssets": [
+    "./favicon.svg",
+    "./assets/index-wnSAod_i.js",
+    "./assets/index--U39yAa-.css",
+    "./share.png"
+  ]
+}

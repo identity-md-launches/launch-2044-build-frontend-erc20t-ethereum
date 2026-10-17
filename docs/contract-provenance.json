@@ -1,0 +1,48 @@
+{
+  "chainId": 1,
+  "retrieved": "2026-10-17",
+  "contracts": [
+    {
+      "role": "hook",
+      "address": "0xed9a04fa6693e754661a22502524df9b1857e544",
+      "name": "ERC20THook",
+      "sourcifyCreationMatch": "match",
+      "sourcifyRuntimeMatch": "match",
+      "blockscoutVerified": true,
+      "sourceSha256": "3a3366e004ce664722ba204388837e7358a011dc2d3ed75b0dc84f24f7c10497",
+      "abiSha256": "9fb9302d67838322af517856bc0e9098c70f3fbd6b0d2ef067feb90364077f41",
+      "sourcifyURL": "https://sourcify.dev/server/v2/contract/1/0xed9a04fa6693e754661a22502524df9b1857e544?fields=abi,metadata,sources,creationMatch,runtimeMatch",
+      "blockscoutURL": "https://eth.blockscout.com/api/v2/smart-contracts/0xed9a04fa6693e754661a22502524df9b1857e544"
+    },
+    {
+      "role": "factory",
+      "address": "0x801411c6acec4fa80c75c5d3c0eae13c84f8a173",
+      "name": "ERC20TFactory",
+      "sourcifyCreationMatch": "match",
+      "sourcifyRuntimeMatch": "match",
+      "blockscoutVerified": true,
+      "sourceSha256": "9ba73f412fe10478d6aea03dc38bd816b6d09d4ecb4e1d129eb88bfb00d15a13",
+      "abiSha256": "e764e0008a197d1304e02c1835250728c919fc81c8147f9c63e2ce53d909f60a",
+      "sourcifyURL": "https://sourcify.dev/server/v2/contract/1/0x801411c6acec4fa80c75c5d3c0eae13c84f8a173?fields=abi,metadata,sources,creationMatch,runtimeMatch",
+      "blockscoutURL": "https://eth.blockscout.com/api/v2/smart-contracts/0x801411c6acec4fa80c75c5d3c0eae13c84f8a173"
+    },
+    {
+      "role": "token",
+      "address": "0x2df7dcf4d19a7924e00ae96629cc1d1261670eee",
+      "name": "ERC20T",
+      "sourcifyCreationMatch": "match",
+      "sourcifyRuntimeMatch": "match",
+      "blockscoutVerified": true,
+      "sourceSha256": "f769a725b13a81faeadce8d68f2ab18fe2204b82f599b2c8c829b6eb6a05e384",
+      "abiSha256": "70a1d92dacaeb047b3433c5644da7e904ff9f5b5a289a71714e5838f17248a7b",
+      "sourcifyURL": "https://sourcify.dev/server/v2/contract/1/0x2df7dcf4d19a7924e00ae96629cc1d1261670eee?fields=abi,metadata,sources,creationMatch,runtimeMatch",
+      "blockscoutURL": "https://eth.blockscout.com/api/v2/smart-contracts/0x2df7dcf4d19a7924e00ae96629cc1d1261670eee"
+    }
+  ],
+  "factoryDeployment": {
+    "transactionHash": "0xdf27d0960e641cfa4b2715a27a37860c022592484feab22ff53977e242ccfd5a",
+    "blockNumber": "26208074",
+    "transactionIndex": "212",
+    "deployer": "0x019817aD02a31B990433542097bE29D97613E8Cb"
+  }
+}

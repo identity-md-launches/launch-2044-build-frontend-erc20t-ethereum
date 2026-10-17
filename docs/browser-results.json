@@ -1,0 +1,124 @@
+{
+  "checks": [
+    {
+      "name": "390px first screen includes product and complete primary action",
+      "passed": true,
+      "detail": "Continue bottom: 806.59375px / 844px"
+    },
+    {
+      "name": "Responsive reflow at 320, 390, 768 and 1440px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Skip link focuses main without changing the app route",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Launch validation: name, custom base, tax, allocation and decay interval",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Unavailable RPC blocks submission and offers retry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contract preview recovers after RPC retry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Desktop wallet options, Escape dismissal and focus restoration",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "axe accessibility scan on initial production screen",
+      "passed": true,
+      "detail": "46 rules passed"
+    },
+    {
+      "name": "axe accessibility scan on wallet dialog",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No script errors or missing local assets under /preview/",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "200% text enlargement, RTL reflow and reduced-motion button behavior",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile wallet sheet: four app links and Coinbase Smart Wallet",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Named EIP-6963 provider, generic-row suppression and mainnet switch",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Atomic launch: acknowledgement, rejection recovery, encoded values, zero deposit, receipt and created-token link",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Owner fee recipient independence and resting tax updates; active-decay tax lock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Owner distributor checks/add/remove, global registry, external liquidity and pairing controls",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Discovery event decoding, filters, search, detail navigation and stale-tax disclosure",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Deploy-first and subsequent owner launch use the correct two contract methods",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Custom base eligibility, quote decimals, and both new-token address orderings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Changed base decimals after review block the wallet transaction",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile review and owner settings: no overflow or axe violations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Disconnected and non-owner wallets cannot invoke owner controls",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "WebKit mobile launch preview and wallet sheet",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "browsers": {
+    "chromium": "passed",
+    "webkit": "passed"
+  },
+  "limitations": []
+}
